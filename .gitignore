@@ -30,3 +30,11 @@
 *.exe
 *.out
 *.app
+reversi
+
+# Extra
+Makefile
+qrc_*.*
+moc_*.*
+.qmake.stash
+ui_MainWindow.*
