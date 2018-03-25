@@ -19,6 +19,9 @@ Author: Fernando B. Giannasi
     reversi
     
 # About
+
+(2018/03/23 -> still some bugs to fix)
+
 Despite still inefficient, it beats human players most of the time.
 In the beginner level computer chooses randomly the next move from the set of possible moves.
 In the intermediate and expert levels it uses an heuristic evaluation function and minimax algorithm with limited depth.
